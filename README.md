@@ -1,6 +1,6 @@
-# Netflix-Gpt
+# Gpt-Flix
 
-Netflix-Gpt is a web application that leverages GPT-3 to provide movie and TV show recommendations based on user input. This project aims to enhance the user experience by offering personalized suggestions.
+Gpt-Flix is a web application that leverages GPT-3 to provide movie and TV show recommendations based on user input. This project aims to enhance the user experience by offering personalized suggestions.
 
 ## Features
 
